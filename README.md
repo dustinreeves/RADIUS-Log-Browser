@@ -10,7 +10,7 @@ Everything runs locally in the page. Your log is never uploaded (logs contain us
 
 ## Use it
 
-Open the live site, or serve this folder with any static web server (`python3 -m http.server`), then drop in a log file. `sample.log` is a small made-up log to try.
+Open the live site, or serve this folder with any static web server (`python3 -m http.server`), then drop in a log file. `sample-nps.xml` is a small made-up log to try.
 
 - Green rows are Access-Accept, red rows are Access-Reject
 - Click a header to sort, type to filter every column, or filter by outcome
